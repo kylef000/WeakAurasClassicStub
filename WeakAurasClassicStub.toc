@@ -1,0 +1,11 @@
+## Interface: 100005
+## Title: WeakAuras Classic Stub
+## Author: Zulubtw-Faerlina
+## Version: 0.0.2
+## Notes: Adds backwards compatibility for IsClassic and IsClassicEra
+## X-Category: Interface Enhancements
+## Globe-Main: WeakAuras
+## DefaultState: Enabled
+## Dependencies: WeakAuras
+
+WeakAurasClassicStub.lua
